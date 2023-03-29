@@ -1,4 +1,4 @@
-#include "read_3d_data.h"
+#include "read_3d_data.hpp"
 #include "nanoPGO_3D.hpp"
 
 int main()
